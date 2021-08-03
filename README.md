@@ -1,3 +1,15 @@
+
+ ## GifExpertApp
+
+👋 Hi, I’m @we-are-comin-4-u
+👀 I’m interested in ...
+🌱 I’m currently learning ...
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
