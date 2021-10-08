@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing <GifGrid/> should to show items whend the loadind images finished useFetchGifs 1`] = `
+<Fragment>
+  <h3
+    className="animate__fadeIn"
+  >
+    One Punch
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="ABC"
+      key="ABC"
+      title="ABC Title"
+      url="https://google.com"
+    />
+    <GifGridItem
+      id="123"
+      key="123"
+      title="ABC Title"
+      url="https://google.com"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`testing <GifGrid/> should to show the snapshot 1`] = `
+<Fragment>
+  <h3
+    className="animate__fadeIn"
+  >
+    One Punch
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Loading...👩‍💻
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
